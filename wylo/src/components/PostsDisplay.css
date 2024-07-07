@@ -1,0 +1,21 @@
+/* src/components/PostsDisplay.css */
+.posts-display {
+
+    margin: 20px;
+}
+.All{
+
+    padding: 5px;
+}
+.posts-display {
+    margin: 20px 0;
+  }
+  
+.filter-group {
+    margin-bottom: 20px;
+}
+
+.filter-group input,
+.filter-group select {
+    margin-right: 10px;
+}
